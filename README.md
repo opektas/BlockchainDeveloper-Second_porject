@@ -11,8 +11,6 @@ This Starter Code has already implemented the functionalities you implemented in
 - OpenZeppelin version = 2.1.2
 - ERC-721 Token Name = MyCryptoPektas
 - ERC-721 Token Symbol = MCP
-- “Token Address” on the Rinkeby Network = 0xd54092bf1aafbcd3f7391f65485165a003a5623e
-- Contract: https://rinkeby.etherscan.io/tx/0xd54092bf1aafbcd3f7391f65485165a003a5623e
 - Goerli Infura API Key: https://goerli.infura.io/v3/d5aac62fa24b41b0bc0372a80eaa4769
 
 2. **Metamask: 5.3.1** - If you need to update Metamask just delete your Metamask extension and install it again.
